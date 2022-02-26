@@ -1,0 +1,5 @@
+// const calc = require("./calc.js")
+// var calc = require("./calc.js")
+calc.a(1,2)
+calc.b(3,4)
+calc.c(5,6)
